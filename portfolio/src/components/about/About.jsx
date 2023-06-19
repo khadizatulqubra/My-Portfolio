@@ -27,7 +27,7 @@ const About = () => {
              robust and scalable applications that meet client requirements. I am always eager to take on new challenges 
              and contribute to the success of projects.
              </p>
-             <a href="../src/assets/cv.png" download  className='about-btn'>
+             <a href="./dist/assets/cv.png" download  className='about-btn'>
   <button className='btn'>Download CV</button>
 </a>
 
