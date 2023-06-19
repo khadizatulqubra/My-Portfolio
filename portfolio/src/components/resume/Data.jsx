@@ -31,7 +31,7 @@ const Data=[
         icon:"icon-graduation",
         year:"current",
         title:"Full-Stack Developer",
-        desc:"At Chas Accademy in Stockholm, Globen" 
+        desc:"At Chas Academy in Stockholm, Globen" 
     },
 
     { 
